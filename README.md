@@ -1,5 +1,5 @@
 # UCNet
-UC-Net: Uncertainty Inspired RGB-D Saliency Detectionvia Conditional Variational Autoencoders
+UC-Net: Uncertainty Inspired RGB-D Saliency Detectionvia Conditional Variational Autoencoders (code will be updated soon)
 
 Results of our model on six benchmark datasets can be found: 
 
