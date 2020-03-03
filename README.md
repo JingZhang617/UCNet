@@ -3,11 +3,11 @@ UC-Net: Uncertainty Inspired RGB-D Saliency Detection via Conditional Variationa
 
 Results of our model on six benchmark datasets can be found: 
 
-https://drive.google.com/open?id=1WKoglyj49mlQa8iE17iOsGPr71ZeYGX8
+https://drive.google.com/open?id=1NVJVU8dlf2d9h9T8ChXyNjZ5doWPYhjg
 
-or:
+Performance of our method can be found: 
 
-链接: https://pan.baidu.com/s/1CxU2hcxS349oZUlA_90FeQ 提取码: 6cx6
+https://drive.google.com/open?id=1vacU51eG7_r751lAsjKTPSGrdjzt_Z4H
 
 
 Performance of competing methods can be found: 
