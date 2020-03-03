@@ -17,6 +17,8 @@ https://drive.google.com/open?id=1vacU51eG7_r751lAsjKTPSGrdjzt_Z4H
 
 or: 
 
+链接: https://pan.baidu.com/s/1o6kFY8Y81_V-pftc8kTgUw 提取码: fqpd
+
 # Performance of competing methods
 
 Performance of competing methods can be found: 
