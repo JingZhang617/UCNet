@@ -66,4 +66,8 @@ The complete RGB-D SOD benchmark can be found in this page:
 
 http://dpfan.net/d3netbenchmark/
 
+# Contact
+
+Please contact me for further problems or discussion: zjnwpu@gmail.com
+
 
