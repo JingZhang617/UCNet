@@ -30,14 +30,6 @@ Please cite our paper if necessary:
   
 }
 
-@InProceedings{Liu_2019_CVPR,
-author = {Liu, Liu and Li, Hongdong},
-title = {Lending Orientation to Neural Networks for Cross-view Geo-localization},
-booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
-month = {June},
-year = {2019}
-}
-
 The complete RGB-D SOD benchmark can be found in this page:
 
 http://dpfan.net/d3netbenchmark/
