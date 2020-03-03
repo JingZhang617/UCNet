@@ -1,14 +1,23 @@
 # UCNet (CVPR2020)
 UC-Net: Uncertainty Inspired RGB-D Saliency Detection via Conditional Variational Autoencoders (code will be updated soon)
 
+# Our results:
+
 Results of our model on six benchmark datasets can be found: 
 
 https://drive.google.com/open?id=1NVJVU8dlf2d9h9T8ChXyNjZ5doWPYhjg
+
+or:
+
+链接: https://pan.baidu.com/s/1M9_Bv16-tTnlgF6ayBmc6w 提取码: u8s5
 
 Performance of our method can be found: 
 
 https://drive.google.com/open?id=1vacU51eG7_r751lAsjKTPSGrdjzt_Z4H
 
+or: 
+
+# Performance of competing methods
 
 Performance of competing methods can be found: 
 
@@ -18,8 +27,9 @@ or:
 
 链接: https://pan.baidu.com/s/1g1dbwsGowLD_FFAx0ciSHw 提取码: sqar 
 
+# Dataset
 
-Our training dataset is:
+1) Our training dataset is:
 
 https://drive.google.com/open?id=1H-1sY8Vi9_V7QIN9zs1do3XV2-F6Jb0f
 
@@ -27,7 +37,7 @@ or:
 
 链接: https://pan.baidu.com/s/1TSW1oah7SrXlRTlPVB2h3Q 提取码: vp7f
 
-Our testing dataset is:
+2) Our testing dataset is:
 
 https://drive.google.com/open?id=11rPRBzqxdRz0zHYax995uvzQsZmTR4A7
 
