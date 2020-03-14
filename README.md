@@ -1,6 +1,8 @@
 # UCNet (CVPR2020)
 UC-Net: Uncertainty Inspired RGB-D Saliency Detection via Conditional Variational Autoencoders (code will be updated soon)
 
+![alt text](./train_rgbd.png)
+
 # Our results:
 
 Results of our model on six benchmark datasets can be found: 
