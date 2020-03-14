@@ -53,13 +53,11 @@ or:
 
 Please cite our paper if you like our work:
 
-@InProceedings{UCNet_2020_CVPR, 
-
-  author = {Jing Zhang, Deng-Ping Fan, Yuchao Dai, Saeed Anwar, Fatemeh Sadat Saleh, Tong Zhang, Nick Barnes},
-  title = {UC-Net: Uncertainty Inspired RGB-D Saliency Detection via Conditional Variational Autoencoders},
-  booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
-  year = {2020} 
-  
+@inproceedings{jing2020uc,
+  title={UC-Net: Uncertainty Inspired RGB-D Saliency Detection via Conditional Variational Autoencoders},
+  author = {Zhang, Jing and Fan, Deng-Ping and Dai, Yuchao and Anwar, Saeed and {Sadat Saleh}, Fatemeh and Zhang, Tong and Barnes, Nick},
+  booktitle=cvpr,
+  year={2020}
 }
 
 # Benchmark RGB-D SOD
