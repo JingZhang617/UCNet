@@ -34,6 +34,8 @@ Install Pytorch
 
 # Performance of competing methods
 
+![alt text](./E_F_measure.png)
+
 Performance of competing methods can be found: https://drive.google.com/open?id=1NUMp_zKXSx8jc7u7HnPQmcYXtoiLWj6t or: 链接: https://pan.baidu.com/s/1g1dbwsGowLD_FFAx0ciSHw 提取码: sqar 
 
 # Our Bib:
