@@ -7,52 +7,34 @@ UC-Net: Uncertainty Inspired RGB-D Saliency Detection via Conditional Variationa
 
 Install Pytorch
 
+# Train Model
+
+1. Download training data from: https://drive.google.com/file/d/1zslnkJaD_8h3UjxonBz0ESEZ2eguR_Zi/view?usp=sharing, and put it in folder "data"
+
+2. Run ./train.py
+
+# Test Model
+
+1. Download the trained model from: https://drive.google.com/file/d/1nzGLnlmntTGbcaShfQvE6ouyfWJD-pIB/view?usp=sharing, and put it in folder "models"
+
+2. Download the testing dataset from: https://drive.google.com/file/d/1n1bEfw3lzI6p8u1xaxEqnuEXgNqbAFTA/view?usp=sharing, and put it in folder "testing_data"
+
+3. Modify testing image path in "test.py" accordingly
+
+4. Run ./test.py
+
 
 # Our results:
 
-Results of our model on six benchmark datasets can be found: 
+![alt text](./training_rgbd.png)
 
-https://drive.google.com/open?id=1NVJVU8dlf2d9h9T8ChXyNjZ5doWPYhjg
+1. Results of our model on six benchmark datasets can be found: https://drive.google.com/open?id=1NVJVU8dlf2d9h9T8ChXyNjZ5doWPYhjg or: 链接: https://pan.baidu.com/s/1M9_Bv16-tTnlgF6ayBmc6w 提取码: u8s5
 
-or:
-
-链接: https://pan.baidu.com/s/1M9_Bv16-tTnlgF6ayBmc6w 提取码: u8s5
-
-Performance of our method can be found: 
-
-https://drive.google.com/open?id=1vacU51eG7_r751lAsjKTPSGrdjzt_Z4H
-
-or: 
-
-链接: https://pan.baidu.com/s/1o6kFY8Y81_V-pftc8kTgUw 提取码: fqpd
+2. Performance of our method can be found: https://drive.google.com/open?id=1vacU51eG7_r751lAsjKTPSGrdjzt_Z4H or: 链接: https://pan.baidu.com/s/1o6kFY8Y81_V-pftc8kTgUw 提取码: fqpd
 
 # Performance of competing methods
 
-Performance of competing methods can be found: 
-
-https://drive.google.com/open?id=1NUMp_zKXSx8jc7u7HnPQmcYXtoiLWj6t
-
-or:
-
-链接: https://pan.baidu.com/s/1g1dbwsGowLD_FFAx0ciSHw 提取码: sqar 
-
-# Dataset
-
-1) Our training dataset is:
-
-https://drive.google.com/open?id=1H-1sY8Vi9_V7QIN9zs1do3XV2-F6Jb0f
-
-or:
-
-链接: https://pan.baidu.com/s/1TSW1oah7SrXlRTlPVB2h3Q 提取码: vp7f
-
-2) Our testing dataset is:
-
-https://drive.google.com/open?id=11rPRBzqxdRz0zHYax995uvzQsZmTR4A7
-
-or:
-
-链接: https://pan.baidu.com/s/1-wIoyilm1vR59jVVYEbYzg 提取码: nmeh
+Performance of competing methods can be found: https://drive.google.com/open?id=1NUMp_zKXSx8jc7u7HnPQmcYXtoiLWj6t or: 链接: https://pan.baidu.com/s/1g1dbwsGowLD_FFAx0ciSHw 提取码: sqar 
 
 # Our Bib:
 
