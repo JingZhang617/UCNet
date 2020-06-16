@@ -17,7 +17,7 @@ Install Pytorch
 
 1. Download the trained model from: https://drive.google.com/file/d/1nzGLnlmntTGbcaShfQvE6ouyfWJD-pIB/view?usp=sharing, and put it in folder "models"
 
-2. Download the testing dataset from: https://drive.google.com/file/d/1n1bEfw3lzI6p8u1xaxEqnuEXgNqbAFTA/view?usp=sharing, and put it in folder "testing_data"
+2. Download the testing dataset from: https://drive.google.com/file/d/1n1bEfw3lzI6p8u1xaxEqnuEXgNqbAFTA/view?usp=sharing, and put it in folder "test_dataset"
 
 3. Modify testing image path in "test.py" accordingly
 
