@@ -26,7 +26,7 @@ Install Pytorch
 
 # Our results:
 
-![alt text](./training_rgbd.png)
+![alt text](./competing_results_show.png)
 
 1. Results of our model on six benchmark datasets can be found: https://drive.google.com/open?id=1NVJVU8dlf2d9h9T8ChXyNjZ5doWPYhjg or: 链接: https://pan.baidu.com/s/1M9_Bv16-tTnlgF6ayBmc6w 提取码: u8s5
 
