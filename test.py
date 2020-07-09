@@ -11,7 +11,7 @@ os.environ["CUDA_VISIBLE_DEVICES"] = '1'
 
 parser = argparse.ArgumentParser()
 parser.add_argument('--testsize', type=int, default=352, help='testing size')
-parser.add_argument('--latent_dim', type=int, default=8, help='latent dim')
+parser.add_argument('--latent_dim', type=int, default=3, help='latent dim')
 parser.add_argument('--feat_channel', type=int, default=32, help='reduced channel of saliency feat')
 opt = parser.parse_args()
 
