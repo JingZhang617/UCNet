@@ -3,6 +3,19 @@ UC-Net: Uncertainty Inspired RGB-D Saliency Detection via Conditional Variationa
 
 ![alt text](./training_rgbd.png)
 
+# Update 
+
+Our jornal extension will coming soom. Please find link below for the results and ablation studies.
+
+1. Our CVAE based model results:
+https://drive.google.com/file/d/12Q-MBbABFHE5DygbJf7OOSwgGL1q0vGz/view?usp=sharing
+2. Our ABP based model results:
+https://drive.google.com/file/d/102pSSNT1iDbohf-uWBxtQjHoz3B-IjeT/view?usp=sharing
+3. Our middle-fusion ablation study:
+https://drive.google.com/file/d/1hEA2slr5hW4n7XlKqN0jMXtx59NRZTpt/view?usp=sharing
+4. Our late-fusion ablation study:
+https://drive.google.com/file/d/1uwFSxeOfxl0KKG13V_JRhB92hZbEr_Jr/view?usp=sharing
+
 # Setup 
 
 Install Pytorch
