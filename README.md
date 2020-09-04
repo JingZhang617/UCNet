@@ -3,7 +3,7 @@ UC-Net: Uncertainty Inspired RGB-D Saliency Detection via Conditional Variationa
 
 ![alt text](./training_rgbd.png)
 
-# *** Update ***
+# *** Update 2020-09-04***
 
 Our journal extension will coming soon. Please find links below for our results and ablation studies.
 
