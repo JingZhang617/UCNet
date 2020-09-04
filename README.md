@@ -18,7 +18,7 @@ https://drive.google.com/file/d/1uwFSxeOfxl0KKG13V_JRhB92hZbEr_Jr/view?usp=shari
 
 Code for our submission: https://drive.google.com/file/d/1Bz_vy2farSXEU2v1E23NT2s7Cm4dSqv3/view?usp=sharing, which includes:
 
-1) Our CVAE model (hybrid loss), 2) Our ABP model, 3) the middle fusion model, 4) the late fusion model, 5) the GSCNN model, 6) the simple CVAE model.
+1) Our CVAE model (hybrid loss), 2) Our ABP model, 3) the middle-fusion model, 4) the late-fusion model, 5) the GSCNN model, 6) the simple CVAE model.
 
 #
 
