@@ -3,6 +3,12 @@ UC-Net: Uncertainty Inspired RGB-D Saliency Detection via Conditional Variationa
 
 ![alt text](./training_rgbd.png)
 
+# *** Update 2020-09-05***
+
+Adding performance of our UC-Net on DUT RGBD saliency testing dataset(https://github.com/jiwei0921/RGBD-SOD-datasets) (400 images):
+
+https://drive.google.com/file/d/14LpM8yB-yKqQiV5sAtDhUqTKwMBFrTGv/view?usp=sharing
+
 # *** Update 2020-09-04***
 
 Our journal extension will coming soon. Please find links below for our results and ablation studies.
