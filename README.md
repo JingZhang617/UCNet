@@ -72,7 +72,7 @@ Performance of competing methods can be found: https://drive.google.com/open?id=
 
 # Our Bib:
 
-Please cite our paper if you like our work:
+Please cite our papers if you like our work:
 ```
 @inproceedings{Zhang2020UCNet,
   title={UC-Net: Uncertainty Inspired RGB-D Saliency Detection via Conditional Variational Autoencoders},
@@ -81,7 +81,16 @@ Please cite our paper if you like our work:
   year={2020}
 }
 ```
-
+```
+@misc{zhang2020uncertainty,
+      title={Uncertainty Inspired RGB-D Saliency Detection}, 
+      author={Jing Zhang and Deng-Ping Fan and Yuchao Dai and Saeed Anwar and Fatemeh Saleh and Sadegh Aliakbarian and Nick Barnes},
+      year={2020},
+      eprint={2009.03075},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+```
 # Benchmark RGB-D SOD
 
 The complete RGB-D SOD benchmark can be found in this page:
