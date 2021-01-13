@@ -82,13 +82,11 @@ Please cite our papers if you like our work:
 }
 ```
 ```
-@misc{zhang2020uncertainty,
-      title={Uncertainty Inspired RGB-D Saliency Detection}, 
-      author={Jing Zhang and Deng-Ping Fan and Yuchao Dai and Saeed Anwar and Fatemeh Saleh and Sadegh Aliakbarian and Nick Barnes},
-      year={2020},
-      eprint={2009.03075},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@article{zhang2020uncertainty,
+  title={Uncertainty Inspired RGB-D Saliency Detection},
+  author={Jing Zhang and Deng-Ping Fan and Yuchao Dai and Saeed Anwar and Fatemeh Saleh and Sadegh Aliakbarian and Nick Barnes},
+  journal={arXiv preprint arXiv:2009.03075},
+  year={2020}
 }
 ```
 # Benchmark RGB-D SOD
